@@ -2,6 +2,10 @@
 settings
 settings.py
 
+*.png
+*.jpeg
+*.gif
+
 config
 config.py
 
